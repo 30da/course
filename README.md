@@ -1,2 +1,5 @@
 # course
-course for zero web course
+course for zero web course 
+
+
+## project notes
